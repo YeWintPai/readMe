@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ye Wint Pai Myel Aung and currently 21 years old.</h1>
 <h3 align="center">I am a passionate backend developer from Myanmar.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yewintpai&label=Profile%20views&color=0e75b6&style=flat" alt="yewintpai" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/yairwint.pai.52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yairwint.pai.52" height="30" width="40" /></a>
